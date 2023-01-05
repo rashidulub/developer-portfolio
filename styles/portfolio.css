@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    padding: 0;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -23,7 +24,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding:  50px 200px;
 }
 
 nav li {
@@ -227,4 +228,7 @@ input{
 }
 .contact{
     text-decoration: none;
+}
+.section-description{
+    margin-bottom: 30px;
 }
